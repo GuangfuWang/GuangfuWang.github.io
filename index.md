@@ -10,7 +10,7 @@ Email: thuwgf@gmail.com
 
 * Machine Learning
 * SLAM
-* OpenGL
+* [OpenGL](./Blogs/OpenGL/general.md)
 * C++
 * Python
 * Numpy
