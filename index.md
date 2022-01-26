@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+## Welcome to My Github Site
 
-You can use the [editor on GitHub](https://github.com/GuangfuWang/GuangfuWang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is entry point for my project-related docs and some other informations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have any questions regarding these contents,  feel free to ask.
 
-### Markdown
+Email: thuwgf@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Blogs
 
-```markdown
-Syntax highlighted code block
+* Machine Learning
+* SLAM
+* OpenGL
+* C++
+* Python
+* Numpy
+* Shape DNA
+* Hardwares
+* CMake and GCC
+* Blender
+* Others
 
-# Header 1
-## Header 2
-### Header 3
+### Neural Networks
 
-- Bulleted
-- List
+This section contains four part:
 
-1. Numbered
-2. List
+* Architecture Design
+* Pure Numpy Implementation
+* Pytorch && TensorFlow Implementation
+* Visualization
 
-**Bold** and _Italic_ and `Code` text
+#### Architecture Design
 
-[Link](url) and ![Image](src)
-```
+* Coming Soon...
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Pure Numpy Implementations
 
-### Jekyll Themes
+* Coming Soon...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuangfuWang/GuangfuWang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Pytorch && TensorFlow Implementation
 
-### Support or Contact
+* Coming Soon...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Visualization
+
+* Coming Soon...
+
+### Spectral Analysis
+
+* Laplace-Beltrami Operator and its C++ Implementation
+* Absolute Dirac Operator and its C++ Implementation
+* Relative Dirac Operator and its C++ Implementation
+* Steklov Operator and its C++ Implementation
+* Anisotropic Laplacian Operator and its C++ Implementation
+* Heat-Kernel Method and its C++ Implementation
+* Coming Soon...
+
+### Computer Graphics
+
+* Coming Soon...
+
+### SLAM
+
+* Coming Soon...
+
+### Repos in github and gitee
+
+* Neuralnetworks: [NeuralNetwork-Link](https://github.com/GuangfuWang/NeuralNetworks)
+
+* GeometricDeepLearning: [GeometricDeepLearningTranslationScript-Github](https://github.com/GuangfuWang/geometric-deep-learning-chinese-translation-scripts), [GeometricDeepLearningTranslationScript-Gitee](https://gitee.com/guangfuthu/geometric-deep-learning-translated-scripts)
+* Shape Analysis: [Shape Analysis-Gitee](https://gitee.com/guangfuthu/shapeanalysis)
+* Graphic Engine: [3D Body](https://gitee.com/guangfuthu/threedbody)
+* Numpy Learning Demo Code Materials: [Numpy Learning Code](https://github.com/GuangfuWang/NumPyLearn) 
+
+### Publications
+
+* Coming Soon...
