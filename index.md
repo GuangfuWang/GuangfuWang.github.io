@@ -16,7 +16,7 @@ Email: thuwgf@gmail.com
 * Numpy
 * Shape DNA
 * Hardwares
-* CMake and GCC
+* [CMake and GCC](./Blogs/CMakeAndGCC/general.html)
 * Blender
 * Others
 
