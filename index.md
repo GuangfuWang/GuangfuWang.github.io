@@ -8,7 +8,7 @@ Email: thuwgf@gmail.com
 
 ### Blogs
 
-* [Machine Learning](./Blogs/ML/SwinTransformer.md)
+* [Machine Learning](./Blogs/Networks/general.md)
 * SLAM
 * [OpenGL](./Blogs/OpenGL/general.md)
 * C++
