@@ -9,6 +9,10 @@
 * Bert: 2019
 * GPT Series: 201X
 
+> Generative Neural Networks
+
++ GAN for image generation
+
 > CNN
 
 * GoogleNet
