@@ -11,7 +11,7 @@
 
 > Generative Neural Networks
 
-+ GAN for image generation
++ [GAN for image generation](./GAN_for_Image_Generation.md)
 
 > CNN
 
