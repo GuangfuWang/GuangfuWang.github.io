@@ -8,15 +8,15 @@ Email: thuwgf@gmail.com
 
 ### Blogs
 
-* [Machine Learning](./Blogs/Networks/general.md)
-* SLAM
-* [OpenGL](./Blogs/OpenGL/general.md)
+* Machine Learning
+* [SLAM](./Blogs/cam_calibration/opencv.md)
+* OpenGL
 * C++
 * Python
 * Numpy
 * Shape DNA
 * Hardwares
-* [CMake and GCC](./Blogs/CMakeAndGCC/general.md)
+* [CMake and GCC](./Blogs/CMakeAndGCC/general.html)
 * Blender
 * Others
 
