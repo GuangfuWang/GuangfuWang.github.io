@@ -9,7 +9,7 @@ Email: thuwgf@gmail.com
 ### Blogs
 
 * Machine Learning
-* [SLAM](./Blogs/cam_calibration/opencv.md)
+* [SLAM](./Blogs/SLAM/general.md)
 * OpenGL
 * C++
 * Python
