@@ -8,3 +8,4 @@
 * Wraping C++ libs to Python
 * Uploading your C++libs to Python repo
 * Organizing your C++ project with cmake 
+* [opencv in jetson nano](./../cam_calibration/opencv.md)
